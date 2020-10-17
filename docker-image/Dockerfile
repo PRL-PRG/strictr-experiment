@@ -37,13 +37,18 @@ RUN DEBIAN_FRONTEND=noninteractive \
       libwebp-dev \
       libxml2-dev \
       rsync \
+      t1-xfree86-nonfree \
       texlive-latex-extra \
       tk-dev \
       tree \
+      ttf-xfree86-nonfree \
+      ttf-xfree86-nonfree-syriac \
       unixodbc-dev \
       vim \
       wget \
       x11-utils \
+      xfonts-100dpi \
+      xfonts-75dpi \
       xorg-dev \
       xvfb \
       zlib1g-dev
