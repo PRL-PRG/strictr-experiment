@@ -189,7 +189,6 @@ Rsolnp
 signal
 gdata
 RJSONIO
-shinyBS
 uuid
 rlist
 tseries
